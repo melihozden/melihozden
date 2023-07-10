@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melih Özden</h1>
-<h3 align="center">A mobile developer from Turkey :)</h3> 
+<h3 align="center">An iOS developer from Turkey :)</h3> 
 
 
 <a href="https://www.linkedin.com/in/melihozden" target="blank" style="margin-right: 10px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/melihozden" height="30" width="30" /></a>
